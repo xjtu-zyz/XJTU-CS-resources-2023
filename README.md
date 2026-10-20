@@ -38,6 +38,7 @@
 - [计算机网络](%E8%AE%A1%E7%BD%91/README.md)
 - [计算机网络实验](%E8%AE%A1%E7%BD%91%E5%AE%9E%E9%AA%8C/README.md)
 - [测控实习](%E6%B5%8B%E6%8E%A7%E5%AE%9E%E4%B9%A0/README.md)
+- [嵌入式智能系统](嵌入式智能系统/README.md)
 
 ### 应用与软件
 
@@ -45,6 +46,7 @@
 - [人工智能](%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/README.md)
 - [软件工程](%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/README.md)
 - [计算机图形学](%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/README.md)
+- [计算机视觉](计算机视觉CV/README.md)
 
 ## 独立代码仓库
 
